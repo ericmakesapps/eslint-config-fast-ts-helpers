@@ -1,0 +1,19 @@
+{
+	"name": "eslint-config-fast-ts-helpers",
+	"version": "0.0.1",
+	"description": "The shared eslint config for fast-ts-helpers",
+	"repository": "github:ericmakesapps/eslint-config-fast-ts-helpers",
+	"main": "index.js",
+	"keywords": [
+		"eslint",
+		"config",
+		"shared",
+		"config",
+		"lint"
+	],
+	"author": "Eric Ferreira <eric@ericmakesapps.com>",
+	"license": "MIT",
+	"peerDependencies": {
+		"eslint-plugin-react-hooks": ">= 1.0.2"
+	}
+}
